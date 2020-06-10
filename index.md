@@ -1,6 +1,6 @@
 # Anustha Shrestha
 
-<img align="left" style="float:left; margin-right:20px;"  src="https://user-images.githubusercontent.com/64501257/83258551-74780880-a184-11ea-9ee9-d37d8a3a942c.jpg" width="195" height="250" /> 
+<img align="left" style="float:left;margin-right:10px;"  src="https://user-images.githubusercontent.com/64501257/83258551-74780880-a184-11ea-9ee9-d37d8a3a942c.jpg" width="195" height="250" /> 
 
 I am an aspiring statistical analyst with prior experience in Financial Planning and Analysis in the Insurance Industry. I combine analytical skills, technical expertise and business knowledge to present clear and concise reporting for non-quantitative audiences. 
 
