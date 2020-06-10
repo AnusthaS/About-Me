@@ -16,3 +16,8 @@ Feel free to contact me at anusthas@gmail.com or view my [LinkedIn Profile](http
 
 ### Time Series
 [Time Series Modeling and Intervention Analysis on Tourist Arrivals in Nepal](https://github.com/AnusthaS/Time-Series-Project) - Predicted 2019 and 2020 monthly tourist arrivals in Nepal using a multiplicative seasonal ARIMA model with data from 1992 to 2018. Intervention analysis identified 2015 earthquake as temporary change outlier with an immediate effect of 64% reduction of arrivals in the first period and subsequent gradual decrease of impact, which was non-existent by the end of 2018.
+
+### Shiny Dashboard
+[High School and Beyond Survey Dashboard](https://github.com/AnusthaS/Shiny-Apps) - National Center of Educaitonal Statistics' High School and Beyond Survey was used to create a dashboard for exploratory data analysis using various univariate and bivariate plots and simple linear regression model. 
+
+
