@@ -12,7 +12,7 @@ Feel free to contact me at anusthas@gmail.com or view my [LinkedIn Profile](http
 
 ## Projects
 ### Machine Learning
-Crime and Communities: Classification Analysis of High and Low Crime Rates - Evaluated performance of LASSO, Ridge, Random Forest, SVM - in classifying 2000 U.S. communities into “high” or “low” crime areas. Randomly sampled 100 train-test splits, compiled error rates for each iteration, and created box plots for comparison. Optimized hyperparameters for LASSO, Ridge and SVM. Given complexity, Ridge performed the best (17% error rate).
+[Crime and Communities: Classification Analysis of High and Low Crime Rates](https://github.com/AnusthaS/Machine-Learning-Projects/tree/ac45aad2d7c910e5b7678ed0c46b666610f1ac7e) - Evaluated performance of LASSO, Ridge, Random Forest, SVM - in classifying 2000 U.S. communities into “high” or “low” crime areas. Randomly sampled 100 train-test splits, compiled error rates for each iteration, and created box plots for comparison. Optimized hyperparameters for LASSO, Ridge and SVM. Given complexity, Ridge performed the best (17% error rate).
 
 ### Time Series
 Time Series Modeling and Intervention Analysis on Tourist Arrivals in Nepal - Predicted 2019 and 2020 monthly tourist arrivals in Nepal using a multiplicative seasonal ARIMA model with data from 1992 to 2018. Intervention analysis identified 2015 earthquake as temporary change outlier with an immediate effect of 64% reduction of arrivals in the first period and subsequent gradual decrease of impact, which was non-existent by the end of 2018.
