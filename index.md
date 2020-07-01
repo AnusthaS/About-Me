@@ -8,7 +8,6 @@ In my three years of experience as a finance analyst, I saw how data has shaped 
 
 Feel free to contact me at anusthas@gmail.com or view my [LinkedIn Profile](https://www.linkedin.com/in/anusthashrestha/)
 
-</b>
 
 ## Projects
 ### Machine Learning
